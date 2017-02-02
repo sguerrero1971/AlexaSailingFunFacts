@@ -1,0 +1,14 @@
+GetNewFactIntent a fact
+GetNewFactIntent a sailing fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a sailing fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a sailing fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me a sailing trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me a sailing trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some sailing information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
